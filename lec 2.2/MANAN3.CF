@@ -1,0 +1,16 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+
+{
+     int w,l,a;
+     clrscr();
+     printf("enter the width of side : ");
+     scanf("%d",&w);
+     printf("enter the length of side :");
+     scanf("%d",&l);
+     a=l*w;
+     printf("the area of rectngle is :%d",a);
+     getch();
+}
