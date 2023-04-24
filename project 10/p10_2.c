@@ -12,7 +12,7 @@ main()
 	if(p!=NULL)
 	{
 		printf("you can open this file....");
-		fscanf("the value of n is %d:",n);
+		fscanf(P,"the value of n is %d:",n);
 	}
 	else
 	{
