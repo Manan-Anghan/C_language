@@ -8,7 +8,7 @@ main()
 	scanf("%d",&n);
 	
 	p=fopen("p10_1.txt","r");
-	p1=fopen("C:\\manan\\anshi\\p10_5w.c","w");
+	p1=fopen("p10_5w.c","w");
 	
 	if(p==NULL && p1==NULL)
 	{
